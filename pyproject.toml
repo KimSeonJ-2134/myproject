@@ -13,6 +13,7 @@ dependencies = [
     "kiwipiepy>=0.21.0",
     "konlpy>=0.6.0",
     "koreanize-matplotlib>=0.1.1",
+    "lightgbm>=4.6.0",
     "matplotlib>=3.10.3",
     "mlxtend>=0.23.4",
     "networkx>=3.4.2",
@@ -25,4 +26,5 @@ dependencies = [
     "seaborn>=0.13.2",
     "selenium>=4.34.2",
     "wordcloud>=1.9.4",
+    "xgboost>=3.0.3",
 ]
